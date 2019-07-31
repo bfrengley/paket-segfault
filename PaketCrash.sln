@@ -12,6 +12,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PaketCrash", "PaketCrash\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaketCrashCs", "PaketCrashCs\PaketCrashCs.csproj", "{0606F73C-940E-4794-9757-690E9E9826A6}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PaketCrashClassLib", "PaketCrashClassLib\PaketCrashClassLib.fsproj", "{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,5 +51,17 @@ Global
 		{0606F73C-940E-4794-9757-690E9E9826A6}.Release|x64.Build.0 = Release|Any CPU
 		{0606F73C-940E-4794-9757-690E9E9826A6}.Release|x86.ActiveCfg = Release|Any CPU
 		{0606F73C-940E-4794-9757-690E9E9826A6}.Release|x86.Build.0 = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|x64.Build.0 = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|x64.ActiveCfg = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|x64.Build.0 = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2305E9D-4EA6-41A0-B0D9-781CCB92E69D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

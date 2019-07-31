@@ -6,6 +6,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\PaketCrash\PaketCrash.fsproj" />
+    <ProjectReference Include="..\PaketCrashClassLib\PaketCrashClassLib.fsproj" />
   </ItemGroup>
   <Import Project="..\.paket\Paket.Restore.targets" />
 </Project>
