@@ -4,4 +4,5 @@ strategy: min
 source https://api.nuget.org/v3/index.json
 
 nuget FSharp.Core
-nuget Microsoft.AspNetCore.App
+nuget Microsoft.AspNetCore.App 2.2.0
+nuget Microsoft.AspNetCore.Razor.Design 2.2.0
