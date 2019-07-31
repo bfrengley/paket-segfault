@@ -1,4 +1,4 @@
-﻿namespace PaketCrashClassLib
+﻿namespace MainLib
 
 module Say =
     let hello name =
