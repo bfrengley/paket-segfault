@@ -12,6 +12,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MainProj", "MainProj\MainPr
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MainLib", "MainLib\MainLib.fsproj", "{F0010E03-05FB-4AD4-8CFC-D52F3715606D}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SharedLib", "SharedLib\SharedLib.fsproj", "{DF777867-3388-4E97-8276-0C8DEE50B34B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,5 +51,17 @@ Global
 		{F0010E03-05FB-4AD4-8CFC-D52F3715606D}.Release|x64.Build.0 = Release|Any CPU
 		{F0010E03-05FB-4AD4-8CFC-D52F3715606D}.Release|x86.ActiveCfg = Release|Any CPU
 		{F0010E03-05FB-4AD4-8CFC-D52F3715606D}.Release|x86.Build.0 = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|x64.Build.0 = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|x64.ActiveCfg = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|x64.Build.0 = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF777867-3388-4E97-8276-0C8DEE50B34B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
